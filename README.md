@@ -1,4 +1,4 @@
-## Hi welcome to my profile 👋
+## Hi Welcome To My Github profile 👋
 <!--
 **Vinayak409/Vinayak409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
