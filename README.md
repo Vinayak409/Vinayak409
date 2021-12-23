@@ -1,5 +1,4 @@
 ## Hi welcome to my profile 👋
-### I am curently pursuing my B.Tech degree from Rajasthan Technical University, Kota 
 <!--
 **Vinayak409/Vinayak409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 
 [![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak409&show_icons=true&theme=radical)](https://github.com/Vinayak409/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak409&theme=radical)](https://github.com/Vinayak409/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayak409&" alt="Vinayak409" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayak409&theme=radical" alt="Vinayak409" /></p>
 
 
 ## Contact with me -> <a href="https://www.linkedin.com/in/vinayak-chittora/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
