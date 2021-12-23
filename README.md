@@ -1,5 +1,5 @@
 ### Hi welcome to my profile 👋
-
+# I am curently pursuing my B.Tech degree from Rajasthan Technical University, Kota 
 <!--
 **Vinayak409/Vinayak409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
