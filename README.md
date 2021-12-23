@@ -16,5 +16,9 @@ Here are some ideas to get you started:
 -->
 
 [![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak409&show_icons=true&theme=radical)](https://github.com/Vinayak409/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak409)](https://github.com/Vinayak409/github-readme-stats)
+
 
 <a href="https://www.linkedin.com/in/vinayak-chittora/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  
