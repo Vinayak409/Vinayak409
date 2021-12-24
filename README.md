@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vinayak409/Vinayak409/master/logo.svg" width="300" height="100">
+  <img src="https://raw.githubusercontent.com/Vinayak409/Vinayak409/main/logo.svg" width="300" height="100">
 </p>	
-<img src="https://raw.githubusercontent.com/Vinayak409/Vinayak409/master/waves.svg" width="100%" height="150">
+<img src="https://raw.githubusercontent.com/Vinayak409/Vinayak409/main/waves.svg" width="100%" height="150">
 
 # Hello! 👋️
 ![](https://komarev.com/ghpvc/?username=Vinayak409&color=0ca4a5)
@@ -18,4 +18,4 @@ Also, feel free to check what I've been rambling about on <a href="https://fanti
 
 ## I am good at a few things:
 
-<img src="https://raw.githubusercontent.com/Vinayak409/Vinayak409/master/tags.svg" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/Vinayak409/Vinayak409/main/tags.svg" width="auto" height="auto">
