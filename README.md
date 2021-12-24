@@ -1,23 +1,21 @@
-## Hi! Welcome To My Github profile 👋
-<!--
-**Vinayak409/Vinayak409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vinayak409/Vinayak409/master/logo.svg" width="300" height="100">
+</p>	
+<img src="https://raw.githubusercontent.com/Vinayak409/Vinayak409/master/waves.svg" width="100%" height="150">
 
-Here are some ideas to get you started:
+# Hello! 👋️
+![](https://komarev.com/ghpvc/?username=Vinayak409&color=0ca4a5)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a software engineer from Brazil. My deal is building fast, beautiful and high-quality web apps, but I have also worked on mobile and desktop apps (it was pretty fun!). Whenever possible, I work with Open Source Software (OSS). You can check out my OSS projects here on GitHub.
 
-[![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinayak409&show_icons=true&theme=radical)](https://github.com/Vinayak409/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinayak409&theme=radical)](https://github.com/Vinayak409/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vinayak409&theme=radical" alt="Vinayak409" /></p
+Also, feel free to check what I've been rambling about on <a href="https://fantinel.dev" target="_blank">my blog</a>.
 
-## Contact -> <a href="https://www.linkedin.com/in/vinayak-chittora/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="80"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  
-![](https://komarev.com/ghpvc/?username=your-github-username)
+<ul>
+<li>Front-End Web Developer</li>
+<li>Open Sourcerer</li>
+<li>Bullet List Enthusiast</li>
+</ul>
+
+## I am good at a few things:
+
+<img src="https://raw.githubusercontent.com/Vinayak409/Vinayak409/master/tags.svg" width="auto" height="auto">
