@@ -2,7 +2,7 @@
 ## Hi there 👋
 ## I'm **Vinayak Chittora**
 
-<img align="right" height="300" width="400" alt="GIF" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" />
+<img align="right" height="250" width="350" alt="GIF" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" />
 
 <a href="https://www.linkedin.com/in/vinayak-chittora/">
   <img align="left" alt="Vinayak's LinkdeIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
