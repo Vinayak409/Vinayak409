@@ -16,5 +16,5 @@
 
 I am a **Machine learning and Data Science Enthusiast**, 2nd year Engineering undergraduate at RTU, Kota.
 
-![Vinayak's github stats](https://github-readme-stats.vercel.app/api?username=Vinayak409&show_icons=true&hide_border=true)
+![Vinayak's github stats](https://github-readme-stats.vercel.app/api?username=Vinayak409&show_icons=true&hide_border=true&card_width='500')
 <img align="right" height="250" width="350" alt="GIF" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif" />
