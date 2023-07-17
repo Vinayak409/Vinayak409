@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Vinayak Chittora</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" height="50px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak409&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak409" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vinayakchittora" target="blank"><img src="https://img.shields.io/twitter/follow/vinayakchittora?logo=twitter&style=for-the-badge" alt="vinayakchittora" /></a> </p>
