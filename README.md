@@ -1,4 +1,4 @@
-I am a Full Stack Software Engineer passionate about problem-solving, algorithmic challenges, database engineering, and building scalable applications. Currently, I am working at [Wisflux Tech Labs](https://www.wisflux.com/), where I contribute to a comprehensive full-stack project using React, NestJS, PostgreSQL, and Sequelize.
+I am a Full Stack Software Engineer with over 2 years of experience building scalable, production-grade enterprise applications. Currently, I recently worked at [Wisflux Tech Labs](https://www.wisflux.com/), where I contribute to a comprehensive full-stack project using React, NestJS, PostgreSQL, and Sequelize.
 
 In addition to full-stack development, I am deeply interested in database engineering and have hands-on experience with PostgreSQL, which has further fueled my passion for efficient data handling and optimization. Before joining Wisflux, I completed an internship at [Bit to Byte Robotics](https://bbr.org.in/), where I honed my frontend development skills using HTML, CSS, JavaScript, Bootstrap, and jQuery.
 
